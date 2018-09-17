@@ -1,0 +1,22 @@
+{
+  "name": "react-native-gitbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gitbook": "gitbook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emiemi1226/react-native-gitbook.git"
+  },
+  "author": "ryota.shimizu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emiemi1226/react-native-gitbook/issues"
+  },
+  "homepage": "https://github.com/emiemi1226/react-native-gitbook#readme",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
